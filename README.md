@@ -10,3 +10,5 @@ Authenticate:
 
 
 http://ec2-3-138-106-167.us-east-2.compute.amazonaws.com:1024/authenticate/
+
+Authenticate process is acturally based on GCP Oauth
